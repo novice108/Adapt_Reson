@@ -23,3 +23,7 @@ if __name__ == '__main__':
     print(T) #Print the Cluster Results
     print()
     print(iris['target']) #Match the cluster results
+"""
+Deep Neuro-Fuzzy Systems with Python by Himanshu Singh and Yunis Ahmad Lone (Apress, 2020)
+https://github.com/Apress/deep-neuro-fuzzy-systems-w-python/blob/master/Chapter%207.ipynb
+"""
